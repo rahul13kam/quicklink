@@ -1,16 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GoogleChromeLabs/quicklink/HEAD/assets/images/logos/banner-white-bg.png" alt="" width="640">
-  <br>
-  <a href="https://www.npmjs.com/package/quicklink">
-    <img src="https://img.shields.io/npm/v/quicklink?style=flat&logo=npm&logoColor=fff" alt="npm">
-  </a>
-  <a href="https://unpkg.com/quicklink">
-    <img src="https://img.shields.io/bundlephobia/minzip/quicklink" alt="gzip size">
-  </a>
-  <a href="https://github.com/GoogleChromeLabs/quicklink/actions/workflows/ci.yml?query=workflow%3ACI+branch%3Amain">
-    <img src="https://img.shields.io/github/actions/workflow/status/GoogleChromeLabs/quicklink/ci.yml?branch=main&label=ci&logo=github" alt="ci">
-  </a>
-</p>
 
 # quicklink
 
